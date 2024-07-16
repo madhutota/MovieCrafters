@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mc</string>
+
+
+    <!-- Home Tabs -->
+    <string name="home_trending">Trending</string>
+    <string name="home_latest">Latest</string>
+    <string name="home_popular">Popular</string>
+    <string name="home_watch">Watch</string>
+
+
+    <string name="home_movies_list">Movies</string>
+    <string name="home_tv_series">TV series</string>
+    <string name="home_peoples_list">People</string>
+
+</resources>
